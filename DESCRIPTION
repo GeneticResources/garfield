@@ -2,7 +2,7 @@ Package: garfield
 Type: Package
 Title: GWAS Analysis of Regulatory or Functional Information Enrichment
         with LD correction
-Version: 1.0.0
+Version: 1.1.0
 Date: 2015-12-14
 Author: Sandro Morganella <sm22@sanger.ac.uk>
 Maintainer: Valentina Iotchkova <vi1@sanger.ac.uk>
